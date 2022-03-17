@@ -1,0 +1,4 @@
+data/*
+.nextflow*
+results*
+work/*
